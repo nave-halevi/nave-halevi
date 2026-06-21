@@ -1,39 +1,70 @@
-# Hi — I'm Nave Halevi 👋
+# Hi, I'm Nave 👋
 
-**Full-Stack Developer & Cyber Security Enthusiast**  
-Linux · Networks · Python · Node.js · Ethical Hacking
+I'm a developer who enjoys building practical projects and learning how systems work under the hood.
 
----
+Most of my time is currently focused on Linux, backend development, networking, virtualization, and cybersecurity fundamentals.
 
-## About me
-Curious developer with a strong focus on backend systems, networking, and cybersecurity.  
-I enjoy automating workflows, analyzing network traffic, and building practical full-stack projects that combine software engineering and security principles.
+## Current Focus
 
-## Tech & Tools
-- **Languages:** Python, TypeScript (Node.js)
-- **Backend:** NestJS / FastAPI concepts, REST APIs
-- **Databases:** SQLite, PostgreSQL (basic)
-- **Linux & Networking:** Bash, systemd, TCP/IP, Nmap, Wireshark, Scapy
-- **Security:** Recon, traffic analysis, banner grabbing (ethical use only)
-- **Other:** Git, Docker (basics)
+- Linux administration
+- Networking (TCP/IP, DNS, HTTP, SSH)
+- Backend development
+- PostgreSQL
+- Rust
+- Virtualization and homelab environments
+- Cybersecurity fundamentals
 
----
+## Technologies I've Worked With
 
-## Selected Projects
-- **Hacker News Analyzer** — Data pipeline: fetch top stories & comments → CSV, EDA & plots. (Python)  
-- **Calculator App** — React Native + TypeScript; clean UI and state management.  
-- **Port Scanner** — TCP port scanner with banner grabbing and CSV output (educational).  
-- **Net Sniffer** — Scapy-based sniffer with PCAP saving and protocol statistics.
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- Rust
 
-> All security tools are for **educational and ethical use only** on networks you own or have permission to test.
+### Backend
+- Node.js
+- Express
+- REST APIs
 
----
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+
+### Databases
+- PostgreSQL
+- SQLite
+
+### Infrastructure & Tools
+- Linux
+- Bash
+- Git
+- Docker
+- SSH
+- KVM
+
+## Projects
+
+### Home Lab Manager
+A platform for managing and monitoring services inside a personal homelab environment.
+
+### Cyber Range Manager
+A backend project for deploying and managing cybersecurity training scenarios.
+
+### Hacker News Analyzer
+A Python project that collects and analyzes Hacker News data.
+
+## Current Goal
+
+Building stronger foundations in computer science, backend systems, Linux, networking, and cybersecurity.
 
 ## Contact
-- **Email:** navehalevi1213@gmail.com  
-- **GitHub:** [github.com/nave-halevi](https://github.com/nave-halevi)
+
+GitHub: github.com/nave-halevi
+Email: navehalevi1213@gmail.com
 
 ---
 
-_I’m constantly learning — if you see something interesting in my repos, feel free to open an issue or reach out._
-
+Still learning, still building.
+True learning is knowing how to learn.
