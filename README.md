@@ -62,6 +62,7 @@ Building stronger foundations in computer science, backend systems, Linux, netwo
 ## Contact
 
 GitHub: github.com/nave-halevi
+
 Email: navehalevi1213@gmail.com
 
 ---
