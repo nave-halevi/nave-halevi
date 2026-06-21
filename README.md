@@ -61,11 +61,13 @@ Building stronger foundations in computer science, backend systems, Linux, netwo
 
 ## Contact
 
-GitHub: github.com/nave-halevi
+GitHub: github.com/nave-halevi ,
 
 Email: navehalevi1213@gmail.com
 
 ---
 
-Still learning, still building.
-True learning is knowing how to learn.
+"The more you learn, the more you realize how much you don't know."
+
+"Still learning, still building.
+True learning is knowing how to learn."
